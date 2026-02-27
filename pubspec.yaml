@@ -1,14 +1,14 @@
 name: dartdiff
-description: A starting point for Dart libraries or applications.
+description: Pure Dart port of jsdiff for text diffs, patches, and format conversion.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://github.com/xjodoin/dartdiff
+repository: https://github.com/xjodoin/dartdiff
+issue_tracker: https://github.com/xjodoin/dartdiff/issues
 
 environment:
   sdk: ^3.9.2
 
-# Add regular dependencies here.
 dependencies:
-  # path: ^1.9.0
 
 dev_dependencies:
   lints: ^6.0.0
